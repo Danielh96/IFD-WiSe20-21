@@ -3,3 +3,6 @@
 
 <h2>Task 0:</h2> 
 <a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%200/SWOT%20Daniel%20Hollenbach.pdf">SWOT Analyse</a>
+
+<h2>Task 1:</h2> 
+<a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%201/Wallet%20Project.pdf">Wallet project</a>
