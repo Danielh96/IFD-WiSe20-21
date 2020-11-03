@@ -12,3 +12,5 @@
 
 <a href="https://github.com/Danielh96/IFD-WiSe20-21/raw/main/2.2/Konzeptentwurf.pdf">Konzeptentwurf</a>
 
+<h2>Task 3:</h2>
+<a href="https://www.figma.com/proto/NlD4Znjb7mbpTYA64sPL9a/HFU-Intranet?node-id=0%3A1">Wahrnehmung und Aufmerksamkeit</a>
