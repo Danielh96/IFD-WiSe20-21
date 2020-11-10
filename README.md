@@ -16,5 +16,5 @@
 <a href="https://www.figma.com/proto/NlD4Znjb7mbpTYA64sPL9a/HFU-Intranet?node-id=0%3A1">Wahrnehmung und Aufmerksamkeit</a>
 
 <h2>Task 4:</h2>
-<a href="https://www.figma.com/proto/NlD4Znjb7mbpTYA64sPL9a/HFU-Intranet?node-id=0%3A1">Design Grundsätze und Heuristiken</a>
+<a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%204/Flowchart_VUI.png">Design Grundsätze und Heuristiken</a>
 
