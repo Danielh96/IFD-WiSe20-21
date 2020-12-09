@@ -23,5 +23,6 @@
 <br>
 <a href="https://webuser.hs-furtwangen.de/~hollenba/IFD/Aufgabe%205/playground-artyom.html">VUI-Assistent</a>
 
-
+<h2>Task 6:</h2>
+<a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%207/VR-Brille.pdf">VR-Brille</a>
 
