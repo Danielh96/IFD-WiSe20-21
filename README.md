@@ -26,3 +26,6 @@
 <h2>Task 6:</h2>
 <a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%207/VR-Brille.pdf">VR-Brille</a>
 
+<h2>Task 7:</h2>
+<a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%208/8.md">Storyboard und Konzeption</a>
+
