@@ -29,3 +29,5 @@
 <h2>Task 7:</h2>
 <a href="https://github.com/Danielh96/IFD-WiSe20-21/blob/main/Aufgabe%208/8.md">Storyboard und Konzeption</a>
 
+<h2>Task 8:</h2>
+<a href="https://app.draftxr.com/vr/1dkm0m">VR-Prototyp (DraftXR)</a>
